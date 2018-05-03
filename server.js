@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/users', (request, response) => {
-    response.json([{ "user": 'Asif' }, { "user": 'ayush' }, { "user": "ravi" }, { "user": "Abhimanyu" }, { "user": "chetanya arora" }]);
+    response.json([{ "user": "Asif" }, { "user": "ayush" }, { "user": "ravi" }, { "user": "Abhimanyu" }, { "user": "chetanya arora" }]);
 })
 
 
