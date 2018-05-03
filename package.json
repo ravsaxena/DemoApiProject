@@ -1,0 +1,25 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ravi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravsaxena/nodeApidemo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ravsaxena/nodeApidemo/issues"
+  },
+  "homepage": "https://github.com/ravsaxena/nodeApidemo#readme",
+  "description": "demo project",
+  "keywords": [
+    "keyword"
+  ],
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
